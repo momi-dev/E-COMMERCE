@@ -1,0 +1,41 @@
+.background{
+  background-image: url(https://img.freepik.com/premium-photo/beautiful-abstract-illustrations-golden-hand-holding-online-shopping-cart-symbol-icon-gray-back_181667-7609.jpg?w=740);
+  
+  background-size: cover;
+}
+
+.search-box{
+  height: 80%;
+  width: 80%;
+  margin-right: 40%;
+ 
+}
+.logo{
+  padding-right: 70%;
+}
+.homepage{
+
+padding-top: 30%;
+}
+
+.login{
+  padding-top: 10%;
+  background-image: none;
+  background-color: white;
+  padding-left: 45%;
+ 
+}
+.login-handle{
+  height: 40%;
+  width: 40%;
+}
+.cartlist-handle{
+  background-color: white;
+}
+.cartlist2{
+  border: 5px solid black;
+}
+
+
+
+
